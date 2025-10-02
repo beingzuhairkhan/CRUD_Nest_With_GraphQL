@@ -48,10 +48,9 @@ nestjs-graphql-product-crud/
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/beingzuhairkhan/CRUD_Nest_With_GraphQL.git
 
-# Go to project directory
-cd nestjs-graphql-product-crud
+
 
 # Install dependencies
 npm install
